@@ -59,7 +59,6 @@ function playGame(){
     let computerChoice=getComputerChoice();
     console.log("Computers choice: "+computerChoice);
 
-    
     playRound(humanChoice,computerChoice);
 
 }
